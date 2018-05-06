@@ -1,0 +1,29 @@
+html,
+body {
+	height: 100%;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #f4f8f8;
+	font-family: Formular,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+#hero {
+	padding-left: 70px;
+}
+
+.hero-section__title {
+	color: #4a5ac5;
+	font-size: 6.25rem;
+	line-height: 1.05;
+	margin-bottom: 1.125rem;
+	letter-spacing: -5px;
+}
+
+.lead {
+	font-size: 1.96875rem;
+	font-family: Formular,Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-weight: 300;
+	line-height: 42px;
+}
